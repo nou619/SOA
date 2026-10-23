@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personnes>
+  <etudiant classe="IG3">
+    <nom>Ben Saied</nom>
+    <prenom>Ahmed</prenom>
+    <CIN num="08656733" date="08 Juillet 2000" />
+  </etudiant>
+</personnes>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<diplomes>
+  <licence>
+    <semestre>
+      <parcours id="Info">
+        <nom>Algorithmiques</nom>
+        <nom>JavaScript</nom>
+      </parcours>
+      <parcours id="ModSim">
+        <nom>Mod�lisation et simulation</nom>
+      </parcours>
+      <parcours id="Eco">
+        <nom>Economie</nom>
+      </parcours>
+      <parcours id="Ma">
+        <nom>Mathematiques</nom>
+      </parcours>
+      <parcours id="Ts">
+        <nom>Techniques Statistiques</nom>
+      </parcours>
+      <parcours id="Pluri">
+        <nom>Pluridisciplinaire</nom>
+      </parcours>
+    </semestre>
+  </licence>
+</diplomes>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<etudiant>
+    <nom>Karim</nom>
+    <age>20</age>
+    <statutEtudiant>true</statutEtudiant>
+</etudiant>

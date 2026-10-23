@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<population ville="Amiens" date="2021">
+    <tranche age="0" nbFemmes="564" nbHommes="644"/>
+    <tranche age="1" nbFemmes="320" nbHommes="430"/>
+    <tranche age="2" nbFemmes="674" nbHommes="617"/>
+    <tranche age="3" nbFemmes="564" nbHommes="644"/>
+    <tranche age="4" nbFemmes="320" nbHommes="430"/>
+    <tranche age="5" nbFemmes="674" nbHommes="617"/>
+    <tranche age="6" nbFemmes="564" nbHommes="644"/>
+    <tranche age="7" nbFemmes="320" nbHommes="430"/>
+    <tranche age="8" nbFemmes="604" nbHommes="607"/>
+    <tranche age="9" nbFemmes="464" nbHommes="444"/>
+    <tranche age="10" nbFemmes="320" nbHommes="430"/>
+    <tranche age="11" nbFemmes="574" nbHommes="517"/>
+    <tranche age="12" nbFemmes="272" nbHommes="372"/>
+    <tranche age="13" nbFemmes="527" nbHommes="557"/>
+    <tranche age="14" nbFemmes="603" nbHommes="650"/>
+</population>
